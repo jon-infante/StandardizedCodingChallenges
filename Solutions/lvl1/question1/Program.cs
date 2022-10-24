@@ -1,0 +1,3 @@
+﻿using Testing;
+
+Test.Main();

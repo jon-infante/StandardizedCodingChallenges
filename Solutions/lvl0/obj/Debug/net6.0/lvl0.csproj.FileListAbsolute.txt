@@ -1,0 +1,15 @@
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\bin\Debug\net6.0\lvl0.exe
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\bin\Debug\net6.0\lvl0.deps.json
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\bin\Debug\net6.0\lvl0.runtimeconfig.json
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\bin\Debug\net6.0\lvl0.dll
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\bin\Debug\net6.0\lvl0.pdb
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.csproj.AssemblyReference.cache
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.AssemblyInfoInputs.cache
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.AssemblyInfo.cs
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.csproj.CoreCompileInputs.cache
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.dll
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\refint\lvl0.dll
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.pdb
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\lvl0.genruntimeconfig.cache
+C:\Users\JonathanInfante\OneDrive - revature.com\Documents\QC\StandardizedCodingChallenges\Solutions\lvl0\obj\Debug\net6.0\ref\lvl0.dll
